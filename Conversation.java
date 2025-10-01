@@ -3,7 +3,7 @@ import java.util.*;
 class Conversation implements ConversationRequirements {
 
   // Attributes
-  // Responses possible
+  // Responses possible weeee
   private static final String[] cannedResponses = {
       "Please tell me more.",
       "Intresting go on.",
