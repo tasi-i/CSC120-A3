@@ -119,7 +119,7 @@ class Conversation implements ConversationRequirements {
     }
   }
 
-  // main methods to run converstaion
+  // main methods to run converstaionn
 
   public static void main(String[] arguments) {
 
